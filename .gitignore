@@ -1,0 +1,30 @@
+# data & datasets
+data/
+dataset/
+datasets/
+
+# model weights
+checkpoints/
+weights/
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# numpy / arrays
+*.npy
+*.npz
+
+# images (large)
+*.tif
+*.tiff
+*.jpg
+
+# python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# logs
+logs/
